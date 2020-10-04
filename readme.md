@@ -18,7 +18,7 @@
     "message": "SMa20ff21510b74eb0a6e37195fd03b44c"
     }
     ```
-    
+
     * status api
     ```
     curl --location --request POST 'localhost:3000/v1/status' \
@@ -34,6 +34,6 @@
         "status": "delivered",
         "to": "+917550008849",
         "from": "+14155390272"
-    }
+        }
     }
     ```
